@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+## 欢迎访问 孙明辉 的博客
 
-You can use the [editor on GitHub](https://github.com/sunminghui81/sunminghui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+链接地址： https://github.com/sunminghui81/sunminghui.github.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本博客为个人记录工作、业余生活所用。
+严格遵守法律法规，并保有对所著原创博客的所有权。
+创建于： 2018-6-5
 
 ```markdown
-Syntax highlighted code block
+本博客对所有人开发，欢迎阅读、转载。
 
 # Header 1
 ## Header 2
