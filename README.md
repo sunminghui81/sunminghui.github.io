@@ -1,4 +1,4 @@
-## 欢迎访问 孙明辉 的博客
+### 欢迎访问 孙明辉 的博客
 
 链接地址： https://github.com/sunminghui81/sunminghui.github.io
 
