@@ -1,6 +1,6 @@
 ### 欢迎访问 孙明辉 的博客
 
-链接地址： https://sunminghui81.github.io
+链接地址： [https://sunminghui81.github.io](https://sunminghui81.github.io)
 
 本博客对所有人开放，欢迎阅读、转载。
 
